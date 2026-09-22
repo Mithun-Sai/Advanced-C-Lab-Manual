@@ -1,7 +1,7 @@
-## EXP NO:11 C ### Program TO DISPLAY STACK ELEMENTS USING AN ARRAY.
+## EXP NO:11 C Program TO DISPLAY STACK ELEMENTS USING AN ARRAY.
 
 ### Aim:
-To write a C ### Program to display stack elements using an array.
+To write a C Program to display stack elements using an array.
 ### Algorithm:
 1.	Include Necessary Header Files
 2.	Declare Global Variables
@@ -65,12 +65,12 @@ int main() {
 <img width="467" height="225" alt="image" src="https://github.com/user-attachments/assets/3e7f3d34-11f5-485e-867d-26b22bf4ec97" />
 
 ### Result:
-Thus, the ### Program to display stack elements using an array is verified successfully.
+Thus, the Program to display stack elements using an array is verified successfully.
  
 
-## EXP NO:12  ### Program TO PUSH THE GIVEN ELEMENT IN TO A STACK USING ARRAY.
+## EXP NO:12 Program TO PUSH THE GIVEN ELEMENT IN TO A STACK USING ARRAY.
 ### Aim:
-To create a C ### Program to push the given element in to a stack using array.
+To create a C Program to push the given element in to a stack using array.
 ### Algorithm:
 1.	Declare global variables for the stack size, top index, and the stack itself.
 2.	Define the push function to add a floating-point number to the stack.
@@ -115,13 +115,13 @@ int main() {
 
 
 ### Result:
-Thus, the ### Program to push the given element in to a stack using array is verified successfully
+Thus, the Program to push the given element in to a stack using array is verified successfully
 
 
  
-## EXP NO:13 C ### Program TO DISPLAY QUEUE ELEMENTS USING ARRAY.
+## EXP NO:13 C Program TO DISPLAY QUEUE ELEMENTS USING ARRAY.
 ### Aim:
-To write a C ### Program to display queue elements using array
+To write a C Program to display queue elements using array
 
 ### Algorithm:
 1.	Declare global variables for the queue, rear, front, and iteration.
@@ -170,13 +170,13 @@ int main() {
 <img width="470" height="225" alt="image" src="https://github.com/user-attachments/assets/e01bda01-fd80-4051-b78a-079892d9e1da" />
 
 ### Result:
-Thus, the ### Program to display queue elements using array is verified successfully.
+Thus, the Program to display queue elements using array is verified successfully.
 
 
  
-## EXP NO:14 C ### Program TO INSERT ELEMENTS IN QUEUE USING ARRAY.
+## EXP NO:14 C Program TO INSERT ELEMENTS IN QUEUE USING ARRAY.
 ### Aim:
-To write a C ### Program to insert elements in queue using array.
+To write a C Program to insert elements in queue using array.
 
 ### Algorithm:
 1.	Declare global variables for the size, rear, front, and the queue itself.
@@ -223,17 +223,12 @@ int main() {
 <img width="446" height="283" alt="image" src="https://github.com/user-attachments/assets/aa1aa046-37d8-454e-95d9-c825944fbead" />
 
 ### Result:
-Thus, the ### Program to insert elements in queue using array is verified successfully.
-
-
+Thus, the Program to insert elements in queue using array is verified successfully.
 
  
 ## EXP NO:15 C FUNCTION TO DELETE ELEMENTS IN QUEUE USING ARRAY
 
-
-
 ### Aim:
-
 To create a function in C that deletes an element from a queue implemented using an array.
 
 ### Algorithm:
